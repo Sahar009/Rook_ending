@@ -1,7 +1,7 @@
 import React from 'react'
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
+import { BrowserRouter as Router} from "react-router-dom"
 import Header from "../common/header/Header"
-// import Footer from "../common/footer/Footer"
+import Footer from "../common/Footer/Footer"
 
 const pages = () => {
   return (
@@ -15,7 +15,7 @@ const pages = () => {
       <Route exact path='/pricing' component={Pricing} />
       <Route exact path='/contact' component={Contact} />
     </Switch> */}
-    {/* <Footer /> */}
+    <Footer />
   </Router></>
   )
 }
