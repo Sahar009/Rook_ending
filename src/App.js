@@ -1,4 +1,4 @@
-import Pages from "./components/Pages/pages.jsx";
+import Pages from "./components/Pages/Pages";
 import './App.css';
 
 function App() {

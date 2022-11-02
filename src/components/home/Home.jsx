@@ -10,6 +10,7 @@ import Team from "./team/Team"
 const Home = () => {
   return (
     <>
+    
       <Hero />
       <Featured />
       <Recent />
