@@ -7,9 +7,9 @@ const Hero = () => {
     <>
       <section className='hero'>
         <div className='container'>
-          <Heading title='Search Your Next Home ' subtitle='Find new & featured property located in your local city.' />
+          <Heading title='Welcome to Royale chess clubb ' subtitle='We are a five star chess institute committed to building an ideal community by empowering the mind of young and old in a safe and cozy environment using chess as the tool.' />
 
-          <form className='flex'>
+          {/* <form className='flex'>
             <div className='box'>
               <span>City/Street</span>
               <input type='text' placeholder='Location' />
@@ -28,7 +28,7 @@ const Hero = () => {
             <button className='btn1'>
               <i className='fa fa-search'></i>
             </button>
-          </form>
+          </form> */}
         </div>
       </section>
     </>
