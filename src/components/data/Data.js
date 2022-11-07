@@ -89,73 +89,54 @@ export const list = [
 export const awards = [
   {
     icon: <i class='fa-solid fa-trophy'></i>,
-    num: "32 M	",
-    name: "Blue Burmin Award",
+    num: "109	",
+    name: "Medals",
   },
   {
     icon: <i class='fa-solid fa-briefcase'></i>,
-    num: "43 M",
-    name: "Mimo X11 Award",
+    num: "381",
+    name: "Tounaments",
   },
   {
     icon: <i class='fa-solid fa-lightbulb'></i>,
-    num: "51 M",
-    name: "Australian UGC Award",
+    num: "1008+",
+    name: "Rated Players",
   },
   {
     icon: <i class='fa-solid fa-heart'></i>,
-    num: "42 M",
-    name: "IITCA Green Award",
+    num: "10,000",
+    name: "Players",
   },
 ]
 export const location = [
   {
     id: 1,
-    name: "New Orleans, Louisiana",
-    Villas: "12 Villas",
-    Apartments: "10 Apartments",
-    Offices: "07 Offices",
-    cover: "./images/location/city-1.png",
+    cover: "./images/location/img.png",
   },
   {
     id: 2,
-    name: "Jerrsy, United State",
-    Villas: "12 Villas",
-    Apartments: "10 Apartments",
-    Offices: "07 Offices",
-    cover: "./images/location/city-2.png",
+    
+    cover: "./images/location/img2.jpg",
   },
   {
     id: 3,
-    name: "Liverpool, London",
-    Villas: "12 Villas",
-    Apartments: " 10 Apartments",
-    Offices: "07 Offices",
-    cover: "./images/location/city-3.png",
+    
+    cover: "./images/location/img3.jpg",
   },
   {
     id: 4,
-    name: "NewYork, United States",
-    Villas: "12 Villas",
-    Apartments: " 10 Apartments",
-    Offices: "07 Offices",
-    cover: "./images/location/city-4.png",
+   
+    cover: "./images/location/img4.jpg",
   },
   {
     id: 5,
-    name: "Montreal, Canada",
-    Villas: "12 Villas",
-    Apartments: " 10 Apartments",
-    Offices: "07 Offices",
-    cover: "./images/location/city-5.png",
+    
+    cover: "./images/location/img5.jpg",
   },
   {
     id: 6,
-    name: "California, USA",
-    Villas: "12 Villas",
-    Apartments: " 10 Apartments",
-    Offices: "07 Offices",
-    cover: "./images/location/city-6.png",
+   
+    cover: "./images/location/img6.jpg",
   },
 ]
 export const team = [

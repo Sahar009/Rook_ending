@@ -11,6 +11,7 @@ const Services = () => {
         <Back name='Services' title='Services -All Services' cover={img} />
         <div className='featured container'>
           <FeaturedCard />
+          <h1>gfgfg</h1>
         </div>
       </section>
     </>
