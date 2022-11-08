@@ -12,6 +12,10 @@
   margin-bottom: 20px;
   line-height: 30px;
 }
+img{
+  box-shadow: 100px;
+  border-radius: 30px;
+}
 @media screen and (max-width: 768px) {
   .about .container {
     flex-direction: column;
