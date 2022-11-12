@@ -1,5 +1,5 @@
 header {
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   height: 12vh;
   box-shadow: 0 5px 30px rgb(0 22 84 / 10%);
   padding: 15px 0;
@@ -8,21 +8,33 @@ header {
   z-index: 99999;
 }
 header img {
+  position: relative;
   width: 100px;
-  height: 55px;
+  height: 79px;
+  transition: 0.5s;
 }
+/* header img:hover {
+  width: 105px;
+  height: 101px;
+  
+} */
+
+
 header a {
   margin-left: 30px;
-  transition: 0.5s;
-  font-weight: 500;
+  transition: 0.5s ease-in;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.674);
 }
 header a:hover {
-  color: #27ae60;
+  color: #27d6dc;
 }
 header span {
   width: auto;
   padding: 0px 6px;
-  background: #27ae60;
+  background: #27d6dc;
   border-radius: 50px;
   color: #ffffff;
   margin-right: 4px;
@@ -41,6 +53,7 @@ header .toggle {
   }
   header img {
     margin-top: 30px;
+    height: 70px;
   }
   header .button {
     display: none;

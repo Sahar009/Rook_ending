@@ -28,11 +28,15 @@ ul {
 button {
   border-radius: 5px;
   padding: 17px 30px;
-  background: #27ae60;
+  background: #0b699fe6;
   border: none;
   color: #fff;
   cursor: pointer;
   font-weight: bold;
+  transition: 0.5s ease-in;
+}
+button:hover{
+  background: #27d6dc;
 }
 button i {
   margin-right: 5px;
@@ -105,7 +109,7 @@ img {
   grid-gap: 30px;
 }
 .btn3 {
-  background: #ff6922;
+  background: #2222ff9c;
   border-radius: 50px;
 }
 .btn4 {
@@ -115,7 +119,7 @@ img {
 .btn5 {
   border-radius: 50px;
   padding: 20px 40px;
-  color: #27ae60;
+  color: #094c4f;
   font-size: 20px;
   font-weight: 400;
   border: 5px solid #27ae601f;

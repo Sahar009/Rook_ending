@@ -11,7 +11,7 @@ const Header = () => {
       <header>
         <div className='container flex'>
           <div className='logo'>
-            <img src='./images/logo2.png' alt='' />
+            <img src='./images/logo2.png' alt='logo' />
           </div>
           <div className='nav'>
             <ul className={navList ? "small" : "flex"}>

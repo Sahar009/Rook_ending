@@ -177,9 +177,9 @@ export const team = [
   },
   {
     list: "2000",
-    cover: "../images/customer/team-5.jpg",
+    cover: "../images/customer/team-6.jpg",
     // address: "Montreal, USA",
-    name: "Adam K. Jollio",
+    name: "Adeyemi Olalekan",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
 ]
