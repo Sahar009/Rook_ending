@@ -1,11 +1,28 @@
 .contact form div {
   display: flex;
 }
+.shadow{
+  color: red;
+  align-items: center;
+  text-align: center;
+  
+}
+.shadow ::placeholder{
+  color: rgba(0, 0, 0, 0.413);
+}
+.shadow input{
+  border: 1px solid rgba(0, 0, 0, 0.079);
+  border-radius: 5px;
+  width: 100%;
+}
 .contact textarea {
   border: 1px solid rgba(0, 0, 0, 0.1);
   width: 100%;
   border-radius: 5px;
   margin-bottom: 20px;
+  size: fixed;
+  
+  
 }
 .contact input {
   margin-bottom: 20px;

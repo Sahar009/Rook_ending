@@ -24,28 +24,28 @@ export const nav = [
 export const featured = [
   {
     cover: "../images/hero/h1.png",
-    name: "Family House",
-    total: "122 Property",
+    name: "Tournaments",
+    total: "Monthly Rapids",
   },
   {
     cover: "../images/hero/h2.png",
-    name: "House & Villa",
-    total: "155 Property",
+    name: "Chess In slums",
+    total: "Rural chess",
   },
   {
     cover: "../images/hero/h3.png",
-    name: "Apartment",
-    total: "300 Property",
+    name: "Chess in schools",
+    total: "40 schools",
   },
   {
     cover: "../images/hero/h4.png",
-    name: "Office & Studio",
-    total: "80 Property",
+    name: "Chess in Prisons",
+    total: "6 Prisons +",
   },
   {
     cover: "../images/hero/h6.png",
-    name: "Villa & Condo",
-    total: "80 Property",
+    name: "Chess Face off",
+    total: "Blood and cash prices",
   },
 ]
 export const list = [
